@@ -1,6 +1,6 @@
 <div align="center">
 
-# Влад
+# Влад | Eon
 
 ### Java Backend Developer
 
@@ -55,81 +55,6 @@ public class Vlad {
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,maven,git,github,idea,linux"/>
 
 </p>
-
----
-
-# 🚀 Главный проект
-
-## Explore With Me
-
-> Платформа для публикации событий и поиска компании.
-
-### Что реализовано
-
-- REST API
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- PostgreSQL
-- Docker
-- Bean Validation
-- Exception Handling
-- Многомодульный Maven-проект
-- Отдельный сервис статистики
-- Layered Architecture
-
----
-
-# 📊 GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=i-am-eon&theme=github_dark&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-eon&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=i-am-eon&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Сейчас изучаю
-
-| 🚀 | Направление |
-|:---|:------------|
-| ✔ | Spring Security |
-| ✔ | Kafka |
-| ✔ | Microservices |
-| ✔ | Docker Compose |
-| ✔ | Kubernetes |
-
----
-
-# 📌 Репозитории
-
-⭐ Explore With Me
-
-⭐ Java Projects
-
-⭐ Algorithms
-
----
-
-# 📈 Цели на 2026
-
-- Построить сильное Java Backend портфолио
-- Освоить микросервисную архитектуру
-- Изучить Kubernetes
-- Получить позицию Java Backend Developer
-
----
 
 <div align="center">
 
