@@ -4,8 +4,6 @@
 
 ### Java Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=2000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API;PostgreSQL+%7C+Docker;Clean+Architecture"/>
-
 <br>
 
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
