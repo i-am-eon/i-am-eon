@@ -1,8 +1,6 @@
 <div align="center">
 
-# Влад | Eon
-
-### Java Backend Developer
+# Java Backend Developer
 
 <br>
 
