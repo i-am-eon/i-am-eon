@@ -10,6 +10,5 @@
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
 
 </div>
